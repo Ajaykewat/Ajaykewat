@@ -13,7 +13,7 @@ I am also confident with Data Structures and
 Algorithms, Object-Oriented Programming, Database
 Management Systems, Operating Systems
 </p>
-<img src="https://media.wired.com/photos/593320cb68cb3b3dc4097ed6/master/pass/1_partyanimsm2.gif" width="100%"/>
+<img src="https://buildfire.com/wp-content/uploads/2020/01/hub-hero.png" width="100%"/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
